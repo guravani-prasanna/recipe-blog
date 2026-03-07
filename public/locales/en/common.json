@@ -1,0 +1,21 @@
+{
+    "featured_recipes": "Featured Recipes",
+    "view_recipe": "View Recipe",
+    "ingredients_heading": "Ingredients",
+    "instructions_heading": "Instructions",
+    "all_recipes": "All Recipes",
+    "search_placeholder": "Search recipes...",
+    "all_categories": "All Categories",
+    "newsletter_heading": "Subscribe to our Newsletter",
+    "newsletter_placeholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "newsletter_success": "Successfully subscribed!",
+    "newsletter_error": "Please enter a valid email address.",
+    "comments": "Comments",
+    "cuisine": "Cuisine",
+    "difficulty": "Difficulty",
+    "time": "Time",
+    "mins": "mins",
+    "watch_video": "Watch Recipe Video",
+    "not_found": "No recipes found matching your criteria."
+}

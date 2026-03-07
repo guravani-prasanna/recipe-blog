@@ -1,0 +1,21 @@
+{
+    "featured_recipes": "Recettes en Vedette",
+    "view_recipe": "Voir la Recette",
+    "ingredients_heading": "Ingrédients",
+    "instructions_heading": "Instructions",
+    "all_recipes": "Toutes les Recettes",
+    "search_placeholder": "Rechercher des recettes...",
+    "all_categories": "Toutes les Catégories",
+    "newsletter_heading": "Abonnez-vous à notre Newsletter",
+    "newsletter_placeholder": "Entrez votre email",
+    "subscribe": "S'abonner",
+    "newsletter_success": "Abonnement réussi !",
+    "newsletter_error": "Veuillez entrer une adresse email valide.",
+    "comments": "Commentaires",
+    "cuisine": "Cuisine",
+    "difficulty": "Difficulté",
+    "time": "Temps",
+    "mins": "min",
+    "watch_video": "Voir la Vidéo de la Recette",
+    "not_found": "Aucune recette trouvée correspondant à vos critères."
+}
